@@ -1,4 +1,4 @@
-# 🗳️ Election Analysis Project (NLP + Machine Learning)
+# 🗳️ 2020 US Presedential Election Analysis Project (NLP + Machine Learning)
 
 This project performs in-depth exploratory analysis on election-related text data, including sentiment classification, keyword extraction, topic insights, and machine learning modeling. The notebook provides data cleaning, preprocessing, vectorization (TF-IDF), visualization, classification modeling, and performance evaluation.
 
