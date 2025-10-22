@@ -23,7 +23,7 @@ This project performs in-depth exploratory analysis on election-related text dat
 | Data Handling | Pandas |
 | Visualization | Matplotlib |
 | NLP | NLTK |
-| ML Algorithms | Logistic Regression, Naive Bayes, etc. |
+| ML Algorithms | Logistic Regression, Random Forest Classifier |
 | Feature Extraction | TF-IDF |
 | Storage | MongoDB |
 
