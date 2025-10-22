@@ -38,3 +38,5 @@ nltk
 matplotlib
 pymongo
 sklearn
+
+## DataSet: https://drive.google.com/drive/folders/12GyqhWpmqUZafHaL7eu06U3ie_FMeagD
